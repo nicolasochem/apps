@@ -15,7 +15,7 @@
   },
   "sideEffects": false,
   "type": "module",
-  "version": "12.6.2-0-x",
+  "version": "0.133.2-22-x",
   "main": "index.js",
   "dependencies": {
     "@polkadot/util": "12.6.2-0-x",
@@ -23,6 +23,6 @@
     "tslib": "^2.6.2"
   },
   "devDependencies": {
-    "@polkadot/hw-ledger": "12.6.2-0-x"
+    "@polkadot/hw-ledger": "0.133.2-22-x"
   }
 }

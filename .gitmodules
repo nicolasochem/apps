@@ -1,3 +1,0 @@
-[submodule "ledger-substrate-js"]
-	path = packages/ledger-substrate-js
-	url = git@github.com:Zondax/ledger-substrate-js.git
