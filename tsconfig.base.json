@@ -342,6 +342,12 @@
       ],
       "@polkadot/networks": [
         "networks/src/index.ts"
+      ],
+      "@polkadot/hw-ledger": [
+        "hw-ledger/src/index.ts"
+      ],
+      "@zondax/ledger-substrate": [
+        "ledger-substrate-js/src/index.ts"
       ]
     }
   }
