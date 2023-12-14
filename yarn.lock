@@ -2111,6 +2111,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@polkadot/networks@workspace:packages/networks":
+  version: 0.0.0-use.local
+  resolution: "@polkadot/networks@workspace:packages/networks"
+  dependencies:
+    "@polkadot/hw-ledger": 12.6.2-0-x
+    "@polkadot/util": 12.6.2-0-x
+    "@substrate/ss58-registry": ^1.44.0
+    tslib: ^2.6.2
+  languageName: unknown
+  linkType: soft
+
 "@polkadot/phishing@npm:^0.22.1":
   version: 0.22.1
   resolution: "@polkadot/phishing@npm:0.22.1"
