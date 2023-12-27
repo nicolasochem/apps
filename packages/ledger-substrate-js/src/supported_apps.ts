@@ -249,8 +249,8 @@ export const supportedApps: SubstrateAppParams[] = [
   },
   {
     name: "Bittensor",
-    cla: 0xb4,
-    slip0044: 0x800003ed,
+    cla: 0x90,
+    slip0044: 0x80000162,
     ss58_addr_type: 42,
   },
   {
